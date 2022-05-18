@@ -1,0 +1,4 @@
+aiohttp~=3.8.1
+uvicorn~=0.17.6
+fastapi~=0.78.0
+asyncio~=3.4.3
